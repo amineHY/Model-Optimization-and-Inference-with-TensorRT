@@ -1,0 +1,5 @@
+
+# List of files to ignore
+*.caffemodel
+*.onnx
+*.uff
